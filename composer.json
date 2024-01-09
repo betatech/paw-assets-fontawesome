@@ -8,6 +8,12 @@
             "email": "mlaxwong@gmail.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "paw\\assets\\": "src/"

@@ -4,23 +4,22 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ade00ef2f4adee46561f081e4aeef89f",
+    "content-hash": "851c6916604139b2c89e598d10e5bb98",
     "packages": [
         {
             "name": "npm-asset/font-awesome",
-            "version": "5.8.1",
+            "version": "5.15.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/FortAwesome/Font-Awesome.git",
-                "reference": "299abb1fb101f4e1cfd1d2fccc461782ff84b13d"
+                "reference": "7d3d774145ac38663f6d1effc6def0334b68ab7e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/FortAwesome/Font-Awesome/zipball/299abb1fb101f4e1cfd1d2fccc461782ff84b13d",
-                "reference": "299abb1fb101f4e1cfd1d2fccc461782ff84b13d",
-                "shasum": ""
+                "url": "https://api.github.com/repos/FortAwesome/Font-Awesome/zipball/7d3d774145ac38663f6d1effc6def0334b68ab7e",
+                "reference": "7d3d774145ac38663f6d1effc6def0334b68ab7e"
             },
-            "type": "npm-asset-library"
+            "type": "npm-asset"
         }
     ],
     "packages-dev": [],
@@ -30,5 +29,6 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
-    "platform-dev": []
+    "platform-dev": [],
+    "plugin-api-version": "2.6.0"
 }
